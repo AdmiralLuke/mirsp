@@ -15,3 +15,4 @@
 * Typescript / Javascript für die Browseranwendung
 * Java für FrontEnd
 * Python für Berechnungen (librosa-Bibliothek,...) und evtl. Deep Learning
+* SQL: Datenbankeinbindung
