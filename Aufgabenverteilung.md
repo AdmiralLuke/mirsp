@@ -40,12 +40,19 @@ ITPM: IT-Projektmanagement
 
 ###### Programmiersprachen
 Tim: Java, C, Python, Go, JavaScript, HTML, SQL, Delphi
+
 Maximilian: Java, Python, JavaScript, C, C++, (MatLab), SQL
+
 Lukas: Java, Python, JavaScript, TypeScript, C, SQL, Bash
+
 Lena: Java, C++, SQL, (Matlab)
+
 
 ##### Aufgabenbereich
 Lena: UI, Design und FrontEnd
+
 Lukas: BackEnd und Parallelisierung
+
 Max: BackEnd, API und FrontEnd
+
 Tim: Parallelisierung und FrontEnd
