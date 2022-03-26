@@ -23,4 +23,4 @@ S_for = librosa.istft(S_foreground)
 
 end = int(time() * 1000)
 
-print(end - start, "ms Berechnungszeit für", (len(S_for) / 60), "Sekunden")
+print(end - start, "ms Berechnungszeit")
