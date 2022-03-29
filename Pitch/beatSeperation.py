@@ -19,7 +19,7 @@ def median_filter(spectrogram, axis, window_size):
 
 start = int(time() * 1000)
 # hier kann jeder beliebige Song geladen werden
-y, sr = librosa.load("bastille.wav")
+y, sr = librosa.load("nggup.wav")
 n_fft = 2048
 hop_length = n_fft // 2
 
